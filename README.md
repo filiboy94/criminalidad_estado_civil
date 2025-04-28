@@ -54,7 +54,7 @@ El dataset utilizado proviene de registros oficiales de aprehensiones, contiene 
 ## ✍️ Autor
 
 - Salomón Pareja
-- LinkedIn: [Tu LinkedIn]
+- LinkedIn: Salomón Daniel Pareja Pizarro
 - GitHub: filiboy94
 
 ---
