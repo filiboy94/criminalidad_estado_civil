@@ -1,5 +1,31 @@
-# created by virtualenv automatically
-*.venv/
-__pycache__/
-*.pyc
+# Ignorar entornos virtuales
+.venv/
+env/
+venv/
+ENV/
 
+# Ignorar archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorar configuraciones de PyCharm y VSCode
+.idea/
+.vscode/
+
+# Ignorar archivos temporales de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de entorno
+.env
+*.env
+
+# Ignorar bases de datos locales
+*.sqlite3
+
+# Ignorar archivos de Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignorar exportaciones de dependencias
+pip-wheel-metadata/
